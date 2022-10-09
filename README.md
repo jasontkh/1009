@@ -17,3 +17,6 @@ I am Ray
 #1009
 
 This is Bonnie from group 1
+
+def ab():
+	return "c"
