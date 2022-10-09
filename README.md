@@ -1,7 +1,12 @@
+# 1009
+I am Havier
+
+string
 
 # 1009a
 
 # 1009
+Ray Leung
 
 I am Jason.
 I am Jason2.
@@ -11,15 +16,4 @@ I am Ray
 
 #1009
 
-abc
-erase everything
-
-ddd
-
-go
-
-
-eee
-abc
-bbb
-
+This is Bonnie from group 1
