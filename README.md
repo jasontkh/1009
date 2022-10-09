@@ -15,3 +15,4 @@ abc
 erase everything
 
 ddd
+go
